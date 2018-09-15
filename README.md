@@ -12,11 +12,11 @@
 * 首页
 ![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai001.gif)
 * 商品分类
-![image](E92C9654E87B45F4B052609A25355B7E)
+![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai002.gif)
 * 登录&异步搜索
-![image](321C3FD58AE948BBB6748F21A22EE386)
+![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai003.gif)
 * 购物车&订单&支付
-* ![image](12FE56D433FC4F08A89287A8726405CC)
+* ![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai004.gif)
 * 后台管理
-![image](771C24C175094BD5A19B773C764B3D16)
-![image](AF7A45D460C24CEA9B8CD11B78920E2A)
+![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai005.gif)
+![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai006.gif)
