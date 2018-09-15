@@ -10,7 +10,7 @@
 * 项目组成员，负责体育馆区域的设备信息管理模块和设备报修模块。
 ### 项目截图
 * 首页
-![image](06FFF1192E3A48E2A49224AEC3B02AD2)
+![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai001.gif)
 * 商品分类
 ![image](E92C9654E87B45F4B052609A25355B7E)
 * 登录&异步搜索
