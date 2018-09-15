@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="BiMai"
+  id="myeclipse.1496481121614"
+  context-root="/BiMai"
+  j2ee-spec="6.0"
+  archive="BiMai.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

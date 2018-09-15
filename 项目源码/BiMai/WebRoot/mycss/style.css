@@ -1,0 +1,232 @@
+@charset "UTF-8";
+
+body {
+    font-weight: 700;
+    font-family: "微软雅黑";
+}
+.logo {
+    padding: 0;
+}
+
+.myBtn-login {
+    margin: 8px 0 0 15px;
+    float: left;
+    font-weight: 700;
+}
+
+#myCarousel {
+    margin-top: 50px;
+}
+
+.carousel-inner img {
+    margin: 0 auto;
+}
+
+#regModal .form-group {
+    margin-bottom: 0;
+}
+
+#example {
+    background-color: #eee;
+}
+
+#footer {
+    background-color: #666;
+    border-top: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    color: #eee;
+}
+
+#footer a {
+    color: #eee;
+}
+
+.jumbotron {
+    background-image: url(../images/bg.jpg);
+    margin: 50px 0 0 0;
+    color: #ccc;
+}
+
+#information {
+    background-color: #eee;
+    padding: 40px 0;
+}
+
+.info-content {
+    background-color: #fff;
+    margin: 0 0 20px 0;
+    box-shadow: 3px 3px 5px #ccc;
+}
+
+.info-content img {
+    margin: 12px 0;
+}
+
+.info-content h4 {
+    font-weight: 700;
+    color: #333;
+    padding: 2px 0 0 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.info-content p {
+    line-height: 1.6;
+}
+
+.info-right {
+    background-color: #fff;
+    box-shadow: 3px 3px 5px #ccc;
+}
+
+.info-right blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+.info-right h2 {
+    color: #333;
+    padding: 5px;
+}
+
+.info-right h4 {
+    color: #333;
+    font-size: 16px;
+    padding: 2px 0 0 0;
+    line-height: 1.6;
+}
+
+#about {
+    background-color: #eee;
+    padding: 40px 0;
+}
+
+#about .active > a, #about .active > a > a:focus, #about .active > a:hover {
+    color: #fff;
+    background-color: #303030;
+}
+
+#about p {
+    font-weight: normal;
+    line-height: 1.8;
+}
+
+#about .nav-pills {
+    width: 200px;
+}
+
+#about .nav-pills.affix {
+    top: 145px;
+}
+
+.main8 {
+    position: fixed;
+    bottom: 60%;
+    z-index: 900;
+    right: 10%;
+}
+
+.main8 a:hover {
+    background-color: #e8e8e8;
+    border-color: #dadada;
+}
+
+.main8 .x1 {
+    box-sizing: border-box;
+    width: 60px;
+    height: 60px;
+    margin: 0 4px 4px 0;
+    border: 1px solid #e8e8e8;
+    position: absolute;
+    background: #fff url(../images/slider.png) no-repeat 4px 4px;
+    transition: .25s;
+}
+
+.main8 .x1 .y1 {
+    position: absolute;
+    top: -1px;
+    right: 55px;
+    padding: 7px;
+    border: 1px solid #e8e8e8;
+    opacity: 1;
+    background: #fff;
+    margin-right: 4px;
+    text-align: center;
+}
+
+.main8 .x2 {
+    box-sizing: border-box;
+    width: 60px;
+    height: 60px;
+    margin: 73px 4px 4px 0;
+    border: 1px solid #e8e8e8;
+    position: absolute;
+    background: #fff url(../images/slider.png) no-repeat 4px -54px;
+    padding-top: 35px;
+    transition: .25s;
+    color: #919191;
+    text-align: center;
+}
+
+.main8 .x4 {
+    box-sizing: border-box;
+    width: 60px;
+    height: 60px;
+    margin: 140px 4px 4px 0;
+    border: 1px solid #e8e8e8;
+    position: absolute;
+    background: #fff url(../images/slider.png) no-repeat 4px -94px;
+    transition: .25s;
+}
+
+/*没有小于768px，是因为Bootstrap3以移动端优先设计*/
+
+/* 小屏幕（平板，大于等于768px） */
+@media (min-width: 768px) {
+    .jumbotron h1 {
+        font-size: 30px;
+    }
+
+    .jumbotron h4 {
+        font-size: 16px;
+    }
+
+    .info-content h4 {
+        font-size: 16px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+/* 中等屏幕（桌面显示器，大于等于992px） */
+@media (min-width: 992px) {
+    .jumbotron h1 {
+        font-size: 33px;
+    }
+
+    .jumbotron h4 {
+        font-size: 17px;
+    }
+
+    .info-content h4 {
+        font-size: 18px;
+    }
+}
+
+/* 大屏幕（大桌面显示器，大于等于1200px） */
+@media (min-width: 1200px) {
+    .jumbotron h1 {
+        font-size: 36px;
+    }
+
+    .jumbotron h4 {
+        font-size: 18px;
+    }
+
+    .info-content h4 {
+        font-size: 20px;
+    }
+}
