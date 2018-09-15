@@ -16,7 +16,7 @@
 * 登录&异步搜索
 ![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai003.gif)
 * 购物车&订单&支付
-* ![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai004.gif)
+![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai004.gif)
 * 后台管理
 ![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai005.gif)
 ![image](https://github.com/intflag/BiMai/blob/master/GIF%E6%BC%94%E7%A4%BA/bimai006.gif)
